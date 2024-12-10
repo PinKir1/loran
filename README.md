@@ -7,6 +7,7 @@ Completed
 ## Project Overview
 
 This application provides a visualization tool for an emulated LORAN (Long Range Navigation) system. By connecting to a WebSocket server, it processes signal arrival times at base stations, calculates the object's position using the Time Difference of Arrival (TDOA) method, and visualizes the results in real time.
+![image](https://github.com/user-attachments/assets/859720c6-80fc-4035-91ee-7e4b43066b91)
 
 ---
 
